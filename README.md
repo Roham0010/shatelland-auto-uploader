@@ -1,5 +1,5 @@
 # shatelland-auto-uploader
-This is a jquery script that for auto upload files in shatelland.com/upload page
+This is a jquery script for auto upload files in shatelland.com/upload page
 
 <h2>Usage:</h1>
 <ul>
